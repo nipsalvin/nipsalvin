@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Pyton modules 
+- 🔭 I’m currently working with Python & HTML 
 - 🌱 I’m currently learning how to use Odoo
 - 👯 I’m looking to collaborate on Web apps & Games
 - 🤔 I’m looking for help with Java
