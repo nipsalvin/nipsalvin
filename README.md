@@ -8,5 +8,4 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working with Python, HTML, Java, PostgreSQL, Odoo & Ubuntu 
-- 📫 How to reach me: Email devsupport@owncloud.co.ke
+- 🔭 I’m currently working with Python, HTML, Java, PostgreSQL & Odoo in Ubuntu & Windows
