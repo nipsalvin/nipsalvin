@@ -8,4 +8,4 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working with Python, HTML, PostgreSQL, WordPress & Odoo in Ubuntu & Windows
+- 🔭 I’m currently working with Python, Djajngo, HTML, PostgreSQL, WordPress & Odoo in Ubuntu & Windows
