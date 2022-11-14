@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with Python, Django, HTML, CSS , PostgreSQL, MySQL, PowerShell, WordPress & Odoo in Ubuntu & Windows
-- 🔭 I’m currently working with Python, Django, HTML, CSS , PostgreSQL, MySQL, PowerShell, WordPress & Odoo in Ubuntu & Windows
 
