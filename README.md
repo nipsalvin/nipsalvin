@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with Python, Django, HTML, CSS , PostgreSQL, MySQL, PowerShell, WordPress & Odoo in Ubuntu & Windows
+
 ![nipsalvin's github stats](https://github-readme-stats.vercel.app/api?username=nipsalvin&count_private=true&show_icons=true&theme=synthwave)
 
 <!--
@@ -7,8 +9,6 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working with Python, Django, HTML, CSS , PostgreSQL, MySQL, PowerShell, WordPress & Odoo in Ubuntu & Windows
 
 <!-- ![nipsalvin](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 [nipsalvin](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) -->
