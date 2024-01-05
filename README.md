@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐍 I'm a `Pythoneer` with a passion for solving issues and conquering challenges!
-- 🔭 My expertise lie in `Python`, `Django`, `HTML`, `CSS` , `PostgreSQL`, `MySQL`, `PowerShell`, `WordPress` & `Odoo` in `Ubuntu` & `Windows`
+- 🔭 My expertise lie in `Python` `Django` `HTML` `CSS`  `PostgreSQL` `MySQL` `PowerShell` `WordPress` & `Odoo` in `Ubuntu` & `Windows`
 - Connect with me on [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/alvin-mwaniki/)
 
 ![nipsalvin's github stats](https://github-readme-stats.vercel.app/api?username=nipsalvin&count_private=true&show_icons=true&theme=synthwave)
