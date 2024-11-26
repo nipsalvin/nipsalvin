@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend 👋
 
 - 🐍 I'm a `Pythoneer` with a passion for solving problems and conquering challenges!
 - 🔭 My expertise lies in `Python` `(Web, DataScience, Machine Learning)` `Django` `Flask` `Selenium` `BeautifulSoup` `PostgreSQL` `MySQL` `PowerShell` `GIT` `WordPress` `HTML` `CSS` & `Odoo` in `Ubuntu` & `Windows`
