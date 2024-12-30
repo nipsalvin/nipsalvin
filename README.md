@@ -2,8 +2,9 @@
 
 - 🐍 I'm a `Pythoneer` with a passion for solving problems and conquering challenges!
 - 🔭 My expertise lies in `Python` `(Web, DataScience, Machine Learning)` `Django` `Flask` `Selenium` `BeautifulSoup` `PostgreSQL` `MySQL` `PowerShell` `GIT` `WordPress` `HTML` `CSS` & `Odoo` in `Ubuntu` & `Windows`
-- Connect with me on [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/alvin-mwaniki/)
+- 🔗 Connect with me on [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/alvin-mwaniki/)
 - Work with me on [![alt text](https://img.shields.io/badge/-Upwork-0e71a8?style=plastic&logo=Upwork)</a>](https://www.upwork.com/freelancers/~019a970f4057d86636)
+- 📚 👨🏾‍🎓 I am currently learning Web-Development using the *M.E.R.N* Stack
 
 ![nipsalvin's github stats](https://github-readme-stats.vercel.app/api?username=nipsalvin&count_private=true&show_icons=true&theme=synthwave)
 
