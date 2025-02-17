@@ -1,15 +1,7 @@
 ### Hello Friend 👋
 
 - 🐍 I'm a `Pythoneer` with a passion for solving problems and conquering challenges!
-- 🔭 My expertise lies in
-            . `Python` `(Web, DataScience, Machine Learning)`
-            . `Django`
-            . `Flask`
-            . `Selenium`
-            . `BeautifulSoup`
-            . `PostgreSQL`
-            . `MySQL`
-            . `PowerShell` `GIT` `WordPress` `HTML` `CSS` `JavaScript` & `Odoo` in `Ubuntu` & `Windows`
+- 🔭 My expertise lies in `Python` `(Web, DataScience, Machine Learning)` `Django` `Flask` `Selenium` `BeautifulSoup` `PostgreSQL` `MySQL` `PowerShell` `GIT` `WordPress` `HTML` `CSS` `JavaScript` & `Odoo` in `Ubuntu` & `Windows`
 - 🔗 Connect with me on [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/alvin-mwaniki/)
 - 💪🏾 Work with me on [![alt text](https://img.shields.io/badge/-Upwork-0e71a8?style=plastic&logo=Upwork)</a>](https://www.upwork.com/freelancers/~019a970f4057d86636)
 - 📚 👨🏾‍🎓 I am currently learning Web-Development using the __*M.E.R.N*__ Stack (__Mongo__, __Express Js__, __React Js__ & __Node Js__)
