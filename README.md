@@ -6,7 +6,7 @@
 - 💪🏾 Work with me on [![alt text](https://img.shields.io/badge/-Upwork-0e71a8?style=plastic&logo=Upwork)</a>](https://www.upwork.com/freelancers/~019a970f4057d86636)
 - 📚 👨🏾‍🎓 I am currently learning Web-Development using the __*M.E.R.N*__ Stack (__Mongo__, __Express Js__, __React Js__ & __Node Js__)
 
-![nipsalvin's github stats](https://github-readme-stats.vercel.app/api?username=nipsalvin&count_private=true&show_icons=true&theme=synthwave)
+<!-- ![nipsalvin's github stats](https://github-readme-stats.vercel.app/api?username=nipsalvin&count_private=true&show_icons=true&theme=synthwave) -->
 
 
 
