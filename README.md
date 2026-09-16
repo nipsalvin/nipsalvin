@@ -1,7 +1,30 @@
-### Hello Friend 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Alvin%20Mwaniki&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=CBD5E1" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+with+Django;Building+with+FastAPI;Building+with+React.js" alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:alvin@blacktech.co.ke">
+  <img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alvin-mwaniki/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://alvin254.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://wa.me/254719712242">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 - 🐍 I'm a `Pythoneer` with a passion for solving problems and conquering challenges!
-- 🔭 My expertise lies in `Python` `(Web, DataScience, Machine Learning)` `Django` `Flask` `Selenium` `BeautifulSoup` `PostgreSQL` `MySQL` `PowerShell` `GIT` `WordPress` `HTML` `CSS` `Vanilla JavaScript` `Node Js` `Express` `React Js` `Next Js` & `Odoo` in `Ubuntu` & `Windows`
+<!-- - 🔭 My expertise lies in `Python` `(Web, DataScience, Machine Learning)` `Django` `Flask` `Selenium` `BeautifulSoup` `PostgreSQL` `MySQL` `PowerShell` `GIT` `WordPress` `HTML` `CSS` `Vanilla JavaScript` `Node Js` `Express` `React Js` `Next Js` & `Odoo` in `Ubuntu` & `Windows` -->
 - 🔗 Connect with me on [![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>](https://www.linkedin.com/in/alvin-mwaniki/)
 - 💪🏾 Work with me on [![alt text](https://img.shields.io/badge/-Upwork-0e71a8?style=plastic&logo=Upwork)</a>](https://www.upwork.com/freelancers/~019a970f4057d86636)
 - 📚 I am currently learning Web-Development using the __*M.E.R.N*__ Stack (__Mongo__, __Express Js__, __React Js__ & __Node Js__)
