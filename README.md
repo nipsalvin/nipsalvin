@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://alvin254.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=netlify&logoColor=white" />
 </a>
 <a href="https://wa.me/254719712242">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
